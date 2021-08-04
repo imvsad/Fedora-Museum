@@ -49,7 +49,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"nest2021-1"
+                 "value":"bar"
                 }],
          "type":"tilelayer",
          "visible":true,
